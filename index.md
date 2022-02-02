@@ -4,4 +4,4 @@ Thank you
 
 Adithyan K
 
-M : adi.k.dev@gmail.com
+E : adi.k.dev@gmail.com
